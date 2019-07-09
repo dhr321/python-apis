@@ -1,0 +1,43 @@
+{
+    "base": "stations",
+    "clouds": {
+        "all": 1
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 42.65,
+        "lon": -73.75
+    },
+    "dt": 1562631988,
+    "id": 5106834,
+    "main": {
+        "humidity": 49,
+        "pressure": 1016,
+        "temp": 295.33,
+        "temp_max": 299.26,
+        "temp_min": 291.48
+    },
+    "name": "Albany",
+    "sys": {
+        "country": "US",
+        "id": 5137,
+        "message": 0.0099,
+        "sunrise": 1562577893,
+        "sunset": 1562632488,
+        "type": 1
+    },
+    "timezone": -14400,
+    "visibility": 16093,
+    "weather": [
+        {
+            "description": "clear sky",
+            "icon": "01n",
+            "id": 800,
+            "main": "Clear"
+        }
+    ],
+    "wind": {
+        "deg": 310,
+        "speed": 2.6
+    }
+}
